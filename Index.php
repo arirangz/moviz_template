@@ -21,7 +21,7 @@
                 <img src="https://placehold.co/600x400?text=Exemple" class="card-img-top" alt="Inception">
                 <div class="card-body">
                     <h5 class="card-title">Titre</h5>
-                    <a href="index.php?controller=movie&amp;action=show&amp;id=1" class="btn btn-primary">Voir la fiche</a>
+                    <a href="#" class="btn btn-primary">Voir la fiche</a>
                 </div>
             </div>
     </div>
