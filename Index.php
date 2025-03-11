@@ -18,7 +18,7 @@
   <div class="row">
         <div class="col-md-4 my-2">
             <div class="card w-100">
-                <img src="https://placehold.co/600x400?text=Exemple" class="card-img-top" alt="Inception">
+                <img src="https://placehold.co/600x400?text=Exemple" class="card-img-top" alt="Exemple">
                 <div class="card-body">
                     <h5 class="card-title">Titre</h5>
                     <a href="#" class="btn btn-primary">Voir la fiche</a>
